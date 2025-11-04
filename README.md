@@ -13,7 +13,7 @@
 ```typescript
 const alvaroAntunes = {
     currentFocus: "Engenharia de Computação",
-    university: "UFES",
+    university: "Ufes",
     code: ["C", "C++", "Java", "Python", "TypeScript"],
     technologies: {
         backEnd: ["Node.js", "Express", "MySQL"],
@@ -25,7 +25,7 @@ const alvaroAntunes = {
 };
 ```
 
-Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursando **Engenharia de Computação na UFES**. Apaixonado por resolver problemas complexos através da programação e sempre em busca de novos desafios para expandir meus conhecimentos.
+Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursando **Engenharia de Computação na Ufes**. Apaixonado por resolver problemas complexos através da programação e sempre em busca de novos desafios para expandir meus conhecimentos.
 
 ---
 
@@ -88,8 +88,8 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗄️ Banco de Dados & Ferramentas
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
