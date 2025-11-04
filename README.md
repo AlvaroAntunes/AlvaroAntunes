@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Luiz Fellipe | Desenvolvedor Full Stack
+# 👨‍💻 Álvaro Antunes | Desenvolvedor Full Stack
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Full+Stack;Estudante+de+Engenharia;Entusiasta+da+Tecnologia)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 <img align="right" alt="Developer working" height="200px" style="border-radius: 10px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```typescript
-const luizFellipe = {
+const alvaroAntunes = {
     currentFocus: "Engenharia da Computação",
     university: "UFES",
     code: ["C", "C++", "Java", "Python", "VHDL", "JavaScript"],
@@ -28,7 +28,7 @@ const luizFellipe = {
 };
 ```
 
-Olá! 👋 Sou **Luiz Fellipe**, um entusiasta da tecnologia atualmente cursando **Engenharia da Computação na UFES**. Apaixonado por resolver problemas complexos através da programação e sempre em busca de novos desafios para expandir meus conhecimentos.
+Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursando **Engenharia da Computação na UFES**. Apaixonado por resolver problemas complexos através da programação e sempre em busca de novos desafios para expandir meus conhecimentos.
 
 ---
 
