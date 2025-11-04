@@ -4,31 +4,28 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Full+Stack;Estudante+de+Engenharia;Entusiasta+da+Tecnologia)](https://git.io/typing-svg)
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Luiz%20Fellipe&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%C3%81lvaro%20Antunes&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
 </div>
 
 ## 🚀 Sobre Mim
 
-<img align="right" alt="Developer working" height="200px" style="border-radius: 10px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ```typescript
 const alvaroAntunes = {
-    currentFocus: "Engenharia da Computação",
+    currentFocus: "Engenharia de Computação",
     university: "UFES",
-    code: ["C", "C++", "Java", "Python", "VHDL", "JavaScript"],
+    code: ["C", "C++", "Java", "Python", "JavaScript", "TypeScript"],
     technologies: {
         backEnd: ["Node.js", "Express", "MySQL"],
-        frontEnd: ["React", "HTML", "CSS", "JavaScript"],
+        frontEnd: ["React", "Next", "HTML", "CSS", "JavaScript", "TypeScript"],
         databases: ["MySQL", "PostgreSQL"],
         tools: ["Git", "Docker", "VS Code"]
     },
-    currentlyLearning: "Desenvolvimento Web Full Stack",
-    funFact: "Transformo café em código! ☕→💻"
+    currentlyLearning: "Desenvolvimento Web Full Stack"
 };
 ```
 
-Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursando **Engenharia da Computação na UFES**. Apaixonado por resolver problemas complexos através da programação e sempre em busca de novos desafios para expandir meus conhecimentos.
+Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursando **Engenharia de Computação na Ufes**. Apaixonado por resolver problemas complexos através da programação e sempre em busca de novos desafios para expandir meus conhecimentos.
 
 ---
 
@@ -38,9 +35,7 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 
 | 🎮 **Games & Entretenimento** | 🚗 **Sistemas Inteligentes** | 🔍 **Ferramentas & Utilitários** |
 |:---:|:---:|:---:|
-| [![Pacman](https://img.shields.io/badge/Pacman-FF6B6B?style=for-the-badge&logo=ghost&logoColor=white)](https://github.com/Ars-Lupin/PacMan) | [![Estacionamento](https://img.shields.io/badge/Estacionamento%20Inteligente-4ECDC4?style=for-the-badge&logo=car&logoColor=white)](https://github.com/Ars-Lupin/Estacionamento-Inteligente) | [![QR Code](https://img.shields.io/badge/Gerador%20QR%20Code-45B7D1?style=for-the-badge&logo=qrcode&logoColor=white)](https://github.com/Ars-Lupin/QrCode) |
-| [![Pacman 2.0](https://img.shields.io/badge/Pacman%202.0-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/Ars-Lupin/PacMan-2.0) | [![City Search](https://img.shields.io/badge/City%20Search-96CEB4?style=for-the-badge&logo=map&logoColor=white)](https://github.com/Ars-Lupin/City-Search) | [![Indexador](https://img.shields.io/badge/Source%20Index-FFEAA7?style=for-the-badge&logo=search&logoColor=black)](https://github.com/Ars-Lupin/Source-Index) |
-| [![Olimpius](https://img.shields.io/badge/Olimpius%20RPG-DDA0DD?style=for-the-badge&logo=castle&logoColor=white)](https://github.com/Ars-Lupin/Olimpius-pygame) | [![Estoque Web](https://img.shields.io/badge/Estoque%20Digital-74B9FF?style=for-the-badge&logo=church&logoColor=white)](https://github.com/Ars-Lupin/estoque_web) | |
+| [![Pacman](https://img.shields.io/badge/Pacman-FF6B6B?style=for-the-badge&logo=ghost&logoColor=white)](https://github.com/AlvaroAntunes/pacman-c) | [![Busca em grafos](https://img.shields.io/badge/Source%20Index-FFEAA7?style=for-the-badge&logo=search&logoColor=black)](https://github.com/Ars-Lupin/Source-Index) 
 
 </div>
 
