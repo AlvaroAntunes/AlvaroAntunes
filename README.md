@@ -2,7 +2,7 @@
   
 # 👨‍💻 Álvaro Antunes | Desenvolvedor Full Stack
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Full+Stack;Estudante+de+Engenharia;Entusiasta+da+Tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Full+Stack;Estudante+de+Computação;Entusiasta+da+Tecnologia)](https://git.io/typing-svg)
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%C3%81lvaro%20Antunes&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
@@ -36,7 +36,7 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 
 [![Pacman](https://img.shields.io/badge/🎮_Pacman-FF6B6B?style=for-the-badge&logo=ghost&logoColor=white)](https://github.com/AlvaroAntunes/pacman-c)
 
-*Implementação completa do clássico jogo Pacman em linguagem C com mecânicas avançadas e interface gráfica*
+*Implementação de terminal do clássico jogo Pacman em linguagem C*
 
 </div>
 
@@ -45,7 +45,7 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 
 [![Busca em Grafos](https://img.shields.io/badge/🔍_Busca_em_Grafos-4ECDC4?style=for-the-badge&logo=search&logoColor=white)](https://github.com/AlvaroAntunes/graph-search-c)
 
-*Sistema avançado de busca em grafos implementado em C, utilizando algoritmos de busca em largura e profundidade*
+*Sistema de busca em grafos implementado em C, utilizando os algoritmos DFS, BFS, UCS e A**
 
 </div>
 
@@ -54,7 +54,7 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 
 [![Plataforma de Filmes](https://img.shields.io/badge/🎬_Plataforma_de_Filmes-96CEB4?style=for-the-badge&logo=film&logoColor=white)](https://github.com/AlvaroAntunes/plataforma-filmes)
 
-*Plataforma completa para catalogação e avaliação de filmes com interface moderna e responsiva*
+*Plataforma completa de filmes com interface moderna e responsiva*
 
 </div>
 
@@ -123,20 +123,6 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaroantunes012@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527996887194)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](#)
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribuição Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroAntunes/AlvaroAntunes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroAntunes/AlvaroAntunes/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlvaroAntunes/AlvaroAntunes/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
