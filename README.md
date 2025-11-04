@@ -10,8 +10,6 @@
 
 ## 🚀 Sobre Mim
 
-<img align="right" alt="Developer working" height="200px" style="border-radius: 10px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ```typescript
 const alvaroAntunes = {
     currentFocus: "Engenharia de Computação",
@@ -23,8 +21,7 @@ const alvaroAntunes = {
         databases: ["MySQL", "PostgreSQL"],
         tools: ["Git", "Docker", "VS Code"]
     },
-    currentlyLearning: "Desenvolvimento Web Full Stack",
-    funFact: "Transformo café em código! ☕→💻"
+    currentlyLearning: "Desenvolvimento Web Full Stack"
 };
 ```
 
@@ -118,14 +115,6 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 
 ---
 
-## 🏆 Conquistas & Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlvaroAntunes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
@@ -152,15 +141,5 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 </div>
 
 ---
-
-<div align="center">
-
-### 💫 *"A tecnologia move o mundo, mas são as pessoas que fazem a diferença!"*
-
-![Visitor Count](https://profile-counter.glitch.me/AlvaroAntunes/count.svg)
-
-**Obrigado pela visita! 🚀 Vamos construir algo incrível juntos!**
-
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
