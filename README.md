@@ -18,7 +18,7 @@ const alvaroAntunes = {
     technologies: {
         backEnd: ["Node.js", "Express", "MySQL"],
         frontEnd: ["React", "Next.js", "HTML", "CSS", "TypeScript"],
-        databases: ["PostgreSQL", "Supabase"],
+        databases: ["PostgreSQL", "MySQL"],
         tools: ["Git", "Docker", "VS Code"]
     },
     currentlyLearning: "Desenvolvimento Web Full Stack"
