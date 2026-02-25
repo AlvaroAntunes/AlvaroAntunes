@@ -19,7 +19,7 @@ const alvaroAntunes = {
         backEnd: ["Node.js", "FastAPI"],
         frontEnd: ["React", "Next.js", "HTML", "CSS", "TypeScript", "Tailwind CSS"],
         databases: ["PostgreSQL"],
-        tools: ["Git", "Docker", "Supabase]
+        tools: ["Git", "Docker", "Supabase"]
     },
     currentlyLearning: "Desenvolvimento Web Full Stack"
 };
@@ -49,10 +49,20 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 
 </div>
 
-### 🎬 **Aplicações Web**
+### 🎬 **Plataforma de filmes**
 <div align="center">
 
 [![Plataforma de Filmes](https://img.shields.io/badge/🎬_Plataforma_de_Filmes-96CEB4?style=for-the-badge&logo=film&logoColor=white)](https://github.com/AlvaroAntunes/plataforma-filmes)
+
+*Plataforma completa de filmes com interface moderna e responsiva*
+
+</div>
+
+### 🩺  **SaaS B2B para clínicas médicas e odontológicas**
+<div align="center">
+
+[![SaaS Clínicas](https://img.shields.io/badge/🩺_SaaS_Clínicas-0EA5E9?style=for-the-badge&logo=plus&logoColor=white)](https://github.com/AlvaroAntunes/infra-ia-clinicas)
+
 
 *Plataforma completa de filmes com interface moderna e responsiva*
 
@@ -89,7 +99,6 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗄️ Banco de Dados & Ferramentas
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -123,7 +132,7 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-antunes-de-oliveira/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaroantunes012@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5533999698696)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](#)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](#) -->
 
 </div>
 
