@@ -106,9 +106,10 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 
 </div>
 
+<!--
 ---
 
-## 📊 Estatísticas GitHub
+ ## 📊 Estatísticas GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroAntunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -122,8 +123,9 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroAntunes&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph"/>
 </div>
-
 ---
+
+-->
 
 ## 🌐 Conecte-se Comigo
 
