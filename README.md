@@ -16,8 +16,8 @@ const alvaroAntunes = {
     university: "Ufes",
     code: ["C", "C++", "Java", "Python", "TypeScript"],
     technologies: {
-        backEnd: ["Node.js", "Express", "MySQL"],
-        frontEnd: ["React", "Next.js", "HTML", "CSS", "TypeScript"],
+        backEnd: ["Node.js", "Express", "PostgreSQL"],
+        frontEnd: ["React", "Next.js", "HTML", "CSS", "TypeScript", "Tailwind CSS"],
         databases: ["PostgreSQL", "MySQL"],
         tools: ["Git", "Docker", "VS Code"]
     },
