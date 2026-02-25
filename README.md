@@ -61,10 +61,10 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 ### 🩺  **SaaS B2B para clínicas médicas e odontológicas**
 <div align="center">
 
-[![SaaS Clínicas](https://img.shields.io/badge/🩺_SaaS_Clínicas-0EA5E9?style=for-the-badge&logo=plus&logoColor=white)](https://github.com/AlvaroAntunes/infra-ia-clinicas)
+[![SaaS Clínicas](https://img.shields.io/badge/%F0%9F%A9%BA_SaaS_Cl%C3%ADnicas-1E40AF?style=for-the-badge&logo=plus&logoColor=white)](https://github.com/AlvaroAntunes/infra-ia-clinicas)
 
 
-*Plataforma completa de filmes com interface moderna e responsiva*
+*Sistema inteligente de atendimento, gestão e automação para clínicas*
 
 </div>
 
@@ -86,7 +86,7 @@ Olá! 👋 Sou **Álvaro Antunes**, um entusiasta da tecnologia atualmente cursa
 ### 💻 Linguagens de Programação
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
